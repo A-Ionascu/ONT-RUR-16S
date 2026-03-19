@@ -24,3 +24,5 @@ The **--word_size** and --perc_identity parameters allow to modulate the sensiti
 
 
 The package was developed for Linux Ubuntu/Debian environments. Please run the dependencies.sh script before the first use of the main script. As troubleshooting, try reinstall the dependencies (_ncbi-blast+_, _seqkit_, _NanoPlot_, _R_ and _tibble_, _stringr_ _R_ packages). For additional troubleshooting contact us as _Issue_ to this repository.
+
+Please cite our work using: 
