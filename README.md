@@ -8,7 +8,7 @@ The **--input** argument is used for providing the raw pool of unclassified FAST
 
 ## **Usage**
 ### **Required arguments:**
-    -i,  --input		  <FILE>   Unclassified FASTQ file.
+    -i,  --input	  <FILE>   Unclassified FASTQ file.
     -o,  --output     <DIR>    Directory where results will be saved.
     -b,  --barcodes   <FILE>   FASTA file containing the barcode sequences.
     -r,  --reads_dir  <DIR>    Folder containing demultiplexed FASTQ files.
