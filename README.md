@@ -15,8 +15,8 @@ The **--input** argument is used for providing the raw pool of unclassified FAST
 ### **Optional arguments:**
     -w,        	--word_size              	<INT>     Word size for BLASTn (barcode length = 24) [Default: 11].
     -p,        	--perc_identity          	<INT>     Percent identity for BLASTn alignment (0-100) [Default: 0].
-    -min,		    --min_length             	<INT>     Minimum read length to keep [Default: 0].
-    -max, 		  --max_length             	<INT>     Maximum read length to keep [Default: None].
+    -min,       --min_length             	<INT>     Minimum read length to keep [Default: 0].
+    -max, 		--max_length             	<INT>     Maximum read length to keep [Default: None].
     -nanoplot,  --nanoplot_concatenated 	<on|off>  Run NanoPlot for concatenated reads [Default: on].
     -t,         --threads                	<INT>     Number of CPU threads to use [Default: 4].
     -h,         --help                             		  Display this help manual and exit.
