@@ -25,4 +25,4 @@ The **--word_size** and --perc_identity parameters allow to modulate the sensiti
 
 The package was developed for Linux Ubuntu/Debian environments. Please run the dependencies.sh script before the first use of the main script. As troubleshooting, try reinstall the dependencies (_ncbi-blast+_, _seqkit_, _NanoPlot_, _R_ and _tibble_, _stringr_ _R_ packages). For additional troubleshooting contact us as _Issue_ to this repository.
 
-Please cite our work using: 
+Please cite our work using: Ionascu,  A.; Constantin,  N.-D. Rescuing the "Unclassified": An Automated Pipeline for Maximizing Sequence Yield in Multiplexed Nanopore 16S rRNA Sequencing. Preprints 2026, 2026032250. https://doi.org/10.20944/preprints202603.2250.v1
